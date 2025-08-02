@@ -39,15 +39,11 @@ Neorica, istifadəçilərə yüklədikləri şəkillərin internetdəki oxşarla
 1. **Repo-nu Klonlayın:**
 
    ```bash
-   git clone https://github.com/SizinGitHubHesabınız/Neorica.git
+   git clone https://github.com/ibadismayilov/Neroica.git
    cd Neorica
 Visual Studio-da Açın:
 
 Layihəni Visual Studio (2019 və ya daha yeni versiya) ilə açın.
-
-NuGet Paketlərini Bərpa Edin:
-
-Visual Studio-da Solution Explorer-də Solution-a sağ klik edin və "Restore NuGet Packages" seçin.
 
 Verilənlər Bazasını Konfiqurasiya Edin:
 
@@ -57,9 +53,6 @@ Migrations (Miqrasiyalar) Tətbiq Edin:
 
 Visual Studio-da "Tools" → "NuGet Package Manager" → "Package Manager Console" açın və:
 
-powershell
-Kopyala
-Düzenle
 Add-Migration InitialCreate
 Update-Database
 API Açarlarını və SMTP Məlumatlarını Konfiqurasiya Edin:
@@ -88,18 +81,9 @@ Düzenle
     <add key="SmtpPassword" value="sizin_email_tətbiq_parolunuz" />
     <add key="EnableSsl" value="true" />
 </appSettings>
-Emgu CV Native DLL-lərini Əlavə Edin:
-
-Proyektinizin "Platform target"i x86 olduğu üçün, Emgu CV quraşdırma qovluğunuzdan bin\x86 içindəki bütün opencv_*.dll və cvextern.dll fayllarını proyektinizin bin\Debug (və ya bin\Release) qovluğuna kopyalayın.
-
-Həmçinin, haarcascade_frontalface_default.xml faylının da həmin qovluqda olduğundan əmin olun.
-
-Tətbiqi Build Edin:
-
-Visual Studio-da "Build" → "Build Solution" seçin.
 
 🚀 İstifadə
-Tətbiqi başladın: Neorica.exe faylını işə salın.
+Tətbiqi başladın: Visual Studioda yer alan işə sal düyməsinə click edərək tətbiqi işə salın.
 
 Qeydiyyat və giriş üçün üz tanıma və ya ənənəvi metodlardan istifadə edin.
 
@@ -125,8 +109,8 @@ Layihəyə qatqı vermək istəyirsinizsə, zəhmət olmasa repozitoriyanı fork
 Layihənizin lisenziyası burada qeyd oluna bilər, məsələn MIT Lisenziyası.
 
 📧 Əlaqə
-Email: [Sizin Email Ünvanınız]
+Email: ibadismayil635@gmail.com
 
-LinkedIn: [Sizin LinkedIn Profiliniz]
+LinkedIn: https://www.linkedin.com/in/ibad-ismayılov-90a669317/
 
-GitHub: [Sizin GitHub Profiliniz]
+GitHub: https://github.com/ibadismayilov
