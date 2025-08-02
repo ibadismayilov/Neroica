@@ -1,47 +1,46 @@
-Neorica
+# Neorica
+
 Neorica, istifadəçilərə yüklədikləri şəkillərin internetdəki oxşarlarını linkləri ilə birlikdə tapmaq imkanı verən, eyni zamanda təhlükəsiz üz tanıma əsaslı giriş təmin edən qabaqcıl bir masaüstü tətbiqidir.
 
-🚀 Layihənin Məqsədi
+---
+
+## 🚀 Layihənin Məqsədi
+
 "Neorica"nın əsas məqsədi vizual məlumat axtarışını asanlaşdırmaq və təhlükəsiz istifadəçi təcrübəsi yaratmaqdır. Bu platforma, istifadəçilərin məlumatlarının təhlükəsizliyini artırarkən, qeydiyyat və giriş prosesini innovativ üsullarla təmin edir.
 
-✨ Əsas Xüsusiyyətlər
-Qabaqcıl Şəkil Axtarışı: Yüklənmiş şəkillərin internetdəki oxşarlarını sürətli şəkildə tapır və nəticələri müvafiq linklərlə təqdim edir.
+---
 
-Üz Tanıma ilə Giriş/Qeydiyyat: İstifadəçilər üz tanıma texnologiyasından istifadə edərək tətbiqə təhlükəsiz və sürətli şəkildə daxil ola və ya qeydiyyatdan keçə bilərlər.
+## ✨ Əsas Xüsusiyyətlər
 
-Təhlükəsiz Email Doğrulama (OTP): Qeydiyyat və email dəyişikliyi zamanı istifadəçinin email ünvanına birdəfəlik şifrə (OTP) göndərilir.
+- **Qabaqcıl Şəkil Axtarışı:** Yüklənmiş şəkillərin internetdəki oxşarlarını sürətli şəkildə tapır və nəticələri müvafiq linklərlə təqdim edir.  
+- **Üz Tanıma ilə Giriş/Qeydiyyat:** İstifadəçilər üz tanıma texnologiyasından istifadə edərək tətbiqə təhlükəsiz və sürətli şəkildə daxil ola və ya qeydiyyatdan keçə bilərlər.  
+- **Təhlükəsiz Email Doğrulama (OTP):** Qeydiyyat və email dəyişikliyi zamanı istifadəçinin email ünvanına birdəfəlik şifrə (OTP) göndərilir.  
+- **Hesab Məlumatlarının İdarə Edilməsi:** İstifadəçilər öz istifadəçi adlarını, email ünvanlarını və şifrələrini asanlıqla yeniləyə bilərlər.  
+- **Şifrə Hashing:** İstifadəçi şifrələri verilənlər bazasında təhlükəsiz şəkildə hash edilmiş formada saxlanılır.  
+- **Axtarış Tarixçəsi:** İstifadəçilərin əvvəlki şəkil axtarışları saxlanılır.
 
-Hesab Məlumatlarının İdarə Edilməsi: İstifadəçilər öz istifadəçi adlarını, email ünvanlarını və şifrələrini asanlıqla yeniləyə bilərlər.
+---
 
-Şifrə Hashing: İstifadəçi şifrələri verilənlər bazasında təhlükəsiz şəkildə hash edilmiş formada saxlanılır.
+## 🛠️ İstifadə Olunan Texnologiyalar
 
-Axtarış Tarixçəsi: İstifadəçilərin əvvəlki şəkil axtarışları saxlanılır.
+- **C#:** Tətbiqin əsas proqramlaşdırma dili.  
+- **Windows Forms:** Masaüstü qrafik istifadəçi interfeysi (GUI) üçün.  
+- **Entity Framework:** Verilənlər bazası ilə obyekt-obyekt əlaqəsi (ORM) üçün.  
+- **Emgu CV:** OpenCV kitabxanasının .NET üçün sargısı, üz aşkar etmə və kamera ilə işləmək üçün.  
+- **AWS Rekognition:** Bulud əsaslı üz tanıma və indeksləmə xidməti.  
+- **SerpAPI:** Google Reverse Image Search API-yə çıxış üçün.  
+- **ImgBB:** Şəkilləri müvəqqəti olaraq yükləmək və axtarış API-lərinə ötürmək üçün şəkil hosting xidməti.  
+- **SMTP:** Email vasitəsilə OTP kodları göndərmək üçün.
 
-🛠️ İstifadə Olunan Texnologiyalar
-C#: Tətbiqin əsas proqramlaşdırma dili.
+---
 
-Windows Forms: Masaüstü qrafik istifadəçi interfeysi (GUI) üçün.
+## ⚙️ Quraşdırma və Başlatma
 
-Entity Framework: Verilənlər bazası ilə obyekt-obyekt əlaqəsi (ORM) üçün.
+1. **Repo-nu Klonlayın:**
 
-Emgu CV: OpenCV kitabxanasının .NET üçün sargısı, üz aşkar etmə və kamera ilə işləmək üçün.
-
-AWS Rekognition: Bulud əsaslı üz tanıma və indeksləmə xidməti.
-
-SerpAPI: Google Reverse Image Search API-yə çıxış üçün.
-
-ImgBB: Şəkilləri müvəqqəti olaraq yükləmək və axtarış API-lərinə ötürmək üçün şəkil hosting xidməti.
-
-SMTP: Email vasitəsilə OTP kodları göndərmək üçün.
-
-⚙️ Quraşdırma və Başlatma
-Layihəni yerli sisteminizdə işə salmaq üçün aşağıdakı addımları izləyin:
-
-Repo-nu Klonlayın:
-
-git clone https://github.com/SizinGitHubHesabınız/Neorica.git
-cd Neorica
-
+   ```bash
+   git clone https://github.com/SizinGitHubHesabınız/Neorica.git
+   cd Neorica
 Visual Studio-da Açın:
 
 Layihəni Visual Studio (2019 və ya daha yeni versiya) ilə açın.
@@ -56,24 +55,25 @@ AppDbContext sinfinizdə verilənlər bazası bağlantı sətrini düzgün qura�
 
 Migrations (Miqrasiyalar) Tətbiq Edin:
 
-Visual Studio-da "Tools" -> "NuGet Package Manager" -> "Package Manager Console" açın.
+Visual Studio-da "Tools" → "NuGet Package Manager" → "Package Manager Console" açın və:
 
-Aşağıdakı əmrləri ardıcıl icra edin:
-
-Add-Migration InitialCreate # (və ya sonuncu miqrasiya adınız)
+powershell
+Kopyala
+Düzenle
+Add-Migration InitialCreate
 Update-Database
-
 API Açarlarını və SMTP Məlumatlarını Konfiqurasiya Edin:
 
-App.config faylını açın.
+App.config faylını açın və aşağıdakı appSettings dəyərlərini öz açar və məlumatlarınızla doldurun:
 
-Aşağıdakı appSettings dəyərlərini öz API açarlarınız və SMTP məlumatlarınızla doldurun:
-
+xml
+Kopyala
+Düzenle
 <appSettings>
     <!-- AWS Rekognition üçün -->
     <add key="AwsAccessKeyId" value="SİZİN_AWS_ACCESS_KEY_ID" />
     <add key="AwsSecretAccessKey" value="SİZİN_AWS_SECRET_ACCESS_KEY" />
-    <add key="AwsRegion" value="us-east-1" /> <!-- İstifadə etdiyiniz region -->
+    <add key="AwsRegion" value="us-east-1" />
 
     <!-- SerpAPI üçün -->
     <add key="SerpApiKey" value="SİZİN_SERPAPI_KEY" />
@@ -88,62 +88,43 @@ Aşağıdakı appSettings dəyərlərini öz API açarlarınız və SMTP məluma
     <add key="SmtpPassword" value="sizin_email_tətbiq_parolunuz" />
     <add key="EnableSsl" value="true" />
 </appSettings>
-
-Qeyd: SmtpPassword üçün Gmail istifadə edirsinizsə, "Tətbiq Parolu" (App Password) yaratmalısınız.
-
 Emgu CV Native DLL-lərini Əlavə Edin:
 
-Proyektinizin "Platform target"i x86 olduğu üçün, Emgu CV quraşdırma qovluğunuzdan (C:\Emgu\emgucv-XXX\bin\x86) bütün opencv_*.dll və cvextern.dll fayllarını proyektinizin bin\Debug (və ya bin\Release) qovluğuna kopyalayın.
+Proyektinizin "Platform target"i x86 olduğu üçün, Emgu CV quraşdırma qovluğunuzdan bin\x86 içindəki bütün opencv_*.dll və cvextern.dll fayllarını proyektinizin bin\Debug (və ya bin\Release) qovluğuna kopyalayın.
 
-Həmçinin, haarcascade_frontalface_default.xml faylının da bin\Debug (və ya bin\Release) qovluğunda olduğundan əmin olun.
+Həmçinin, haarcascade_frontalface_default.xml faylının da həmin qovluqda olduğundan əmin olun.
 
 Tətbiqi Build Edin:
 
-Visual Studio-da "Build" -> "Build Solution" seçin.
-
-İcra edilə bilən fayl (.exe) proyekt qovluğunuzun bin\Debug (və ya bin\Release) qovluğunda yerləşəcək.
+Visual Studio-da "Build" → "Build Solution" seçin.
 
 🚀 İstifadə
-Tətbiqi Başlatın: Neorica.exe faylını işə salın.
+Tətbiqi başladın: Neorica.exe faylını işə salın.
 
-Qeydiyyat:
+Qeydiyyat və giriş üçün üz tanıma və ya ənənəvi metodlardan istifadə edin.
 
-Üz tanıma ilə qeydiyyatdan keçin və ya ənənəvi məlumatları daxil edin.
+Şəkil axtarışı edin və nəticələri görün.
 
-Email doğrulama kodunu daxil edərək qeydiyyatı tamamlayın.
-
-Giriş:
-
-Qeydiyyatdan keçdiyiniz üzünüzlə daxil olun və ya istifadəçi adı/email və şifrə ilə giriş edin.
-
-Şəkil Axtarışı:
-
-Tətbiqin əsas interfeysində şəkil yükləyin və oxşar şəkilləri axtarın.
-
-Hesab Məlumatlarını Yeniləyin:
-
-Hesab səhifənizdə istifadəçi adınızı, emailinizi və ya şifrənizi dəyişdirə bilərsiniz. Email dəyişikliyi zamanı OTP doğrulama tələb olunacaq.
+Hesab məlumatlarını istəyə uyğun yeniləyin.
 
 🔮 Gələcək İnkişaflar
-Daha Ətraflı Şəkil Analizi: Şəkildəki obyektlərin, səhnələrin və ya mətnin tanınması.
+Daha Ətraflı Şəkil Analizi
 
-İki Faktorlu Autentifikasiya (2FA): SMS və ya autentifikator proqramları vasitəsilə əlavə 2FA seçimləri.
+İki Faktorlu Autentifikasiya (2FA)
 
-Şifrə Sıfırlama Funksiyası: Unudulmuş şifrələri təhlükəsiz şəkildə sıfırlamaq imkanı.
+Şifrə Sıfırlama Funksiyası
 
-Admin Paneli: İstifadəçi hesablarını idarə etmək üçün veb əsaslı və ya masaüstü admin paneli.
+Admin Paneli
 
-Buludda Profil Şəkillərinin Saxlanılması: İstifadəçilərin üz şəkillərini AWS S3 kimi bulud xidmətlərində saxlamaq.
+Buludda Profil Şəkillərinin Saxlanılması
 
 🤝 Qatqı
 Layihəyə qatqı vermək istəyirsinizsə, zəhmət olmasa repozitoriyanı fork edin, dəyişikliklərinizi edin və pull request göndərin.
 
 📄 Lisenziya
-[Layihənizin lisenziyası burada qeyd oluna bilər, məsələn MIT Lisenziyası]
+Layihənizin lisenziyası burada qeyd oluna bilər, məsələn MIT Lisenziyası.
 
 📧 Əlaqə
-Hər hansı bir sualınız və ya təklifiniz varsa, zəhmət olmasa əlaqə saxlayın:
-
 Email: [Sizin Email Ünvanınız]
 
 LinkedIn: [Sizin LinkedIn Profiliniz]
