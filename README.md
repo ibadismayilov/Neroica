@@ -106,7 +106,7 @@ Buludda Profil Şəkillərinin Saxlanılması
 Layihəyə qatqı vermək istəyirsinizsə, zəhmət olmasa repozitoriyanı fork edin, dəyişikliklərinizi edin və pull request göndərin.
 
 📄 Lisenziya
-Layihənizin lisenziyası burada qeyd oluna bilər, məsələn MIT Lisenziyası.
+...
 
 📧 Əlaqə
 Email: ibadismayil635@gmail.com
