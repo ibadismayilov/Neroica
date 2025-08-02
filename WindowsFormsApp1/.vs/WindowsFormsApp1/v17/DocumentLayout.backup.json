@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FinalProject\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\finalproject\\windowsformsapp1\\windowsformsapp1\\usercontrols\\auth\\uc_updateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\usercontrols\\auth\\uc_updateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\finalproject\\windowsformsapp1\\windowsformsapp1\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\finalproject\\windowsformsapp1\\windowsformsapp1\\usercontrols\\auth\\uc_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\usercontrols\\auth\\uc_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\finalproject\\windowsformsapp1\\windowsformsapp1\\usercontrols\\auth\\uc_updateaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\usercontrols\\auth\\uc_updateaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\finalproject\\windowsformsapp1\\windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\finalproject\\windowsformsapp1\\windowsformsapp1\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\authform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\FinalProject\\WindowsFormsApp1\\windowsformsapp1\\usercontrols\\auth\\uc_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\usercontrols\\auth\\uc_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\finalproject\\windowsformsapp1\\windowsformsapp1\\usercontrols\\auth\\uc_updateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\usercontrols\\auth\\uc_updateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\finalproject\\windowsformsapp1\\windowsformsapp1\\usercontrols\\auth\\uc_verifyemailotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\usercontrols\\auth\\uc_verifyemailotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\FinalProject\\WindowsFormsApp1\\windowsformsapp1\\usercontrols\\auth\\uc_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075CCFF2-AA3C-41D5-9CA8-0445DA82C2BE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\usercontrols\\auth\\uc_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 102,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_Account.cs",
+              "DocumentMoniker": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\UserControls\\Auth\\UC_Account.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UserControls\\Auth\\UC_Account.cs",
+              "ToolTip": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\UserControls\\Auth\\UC_Account.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\UserControls\\Auth\\UC_Account.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowFUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:31:34.754Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthForm.cs [Design]",
+              "DocumentMoniker": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\AuthForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AuthForm.cs",
+              "ToolTip": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\AuthForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\AuthForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T20:46:37.089Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_UpdateAccount.Designer.cs",
+              "DocumentMoniker": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\UserControls\\Auth\\UC_UpdateAccount.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UserControls\\Auth\\UC_UpdateAccount.Designer.cs",
+              "ToolTip": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\UserControls\\Auth\\UC_UpdateAccount.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\UserControls\\Auth\\UC_UpdateAccount.Designer.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAmwL4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T20:09:46.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_Account.cs [Design]",
+              "DocumentMoniker": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\UserControls\\Auth\\UC_Account.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UserControls\\Auth\\UC_Account.cs",
+              "ToolTip": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\UserControls\\Auth\\UC_Account.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\UserControls\\Auth\\UC_Account.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:33:28.075Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_UpdateAccount.cs",
+              "DocumentMoniker": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\UserControls\\Auth\\UC_UpdateAccount.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UserControls\\Auth\\UC_UpdateAccount.cs",
+              "ToolTip": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\UserControls\\Auth\\UC_UpdateAccount.cs*",
+              "RelativeToolTip": "WindowsFormsApp1\\UserControls\\Auth\\UC_UpdateAccount.cs*",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAvwDEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:27:10.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\MainForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\MainForm.cs",
+              "ToolTip": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\MainForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T20:49:09.857Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_UpdateAccount.cs [Design]",
+              "DocumentMoniker": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\UserControls\\Auth\\UC_UpdateAccount.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UserControls\\Auth\\UC_UpdateAccount.cs",
+              "ToolTip": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\UserControls\\Auth\\UC_UpdateAccount.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp1\\UserControls\\Auth\\UC_UpdateAccount.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:27:17.274Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthForm.cs",
+              "DocumentMoniker": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\AuthForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AuthForm.cs",
+              "ToolTip": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\AuthForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\AuthForm.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAwwIsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T19:41:33.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UC_VerifyEmailOTP.cs",
+              "DocumentMoniker": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\UserControls\\Auth\\UC_VerifyEmailOTP.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UserControls\\Auth\\UC_VerifyEmailOTP.cs",
+              "ToolTip": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\UserControls\\Auth\\UC_VerifyEmailOTP.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\UserControls\\Auth\\UC_VerifyEmailOTP.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAA7wHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T20:07:56.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_Register.cs",
+              "DocumentMoniker": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\UserControls\\Auth\\UC_Register.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UserControls\\Auth\\UC_Register.cs",
+              "ToolTip": "D:\\FinalProject\\WindowsFormsApp1\\WindowsFormsApp1\\UserControls\\Auth\\UC_Register.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\UserControls\\Auth\\UC_Register.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAowIUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:51:42.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
